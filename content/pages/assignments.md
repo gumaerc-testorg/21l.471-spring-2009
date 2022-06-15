@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the two writing assignments of the
+  course, an Early Novels assignment, and a 19th-20th Century Novels assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
