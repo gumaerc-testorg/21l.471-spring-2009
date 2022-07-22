@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the two writing assignments of the
+  course, an Early Novels assignment, and a 19th-20th Century Novels assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 475d7e25-f443-f826-955d-6c796b7a0a83
 ---

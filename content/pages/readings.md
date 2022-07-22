@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section features the required texts as well as a listing of readings
+  by session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 880d9d86-3520-3dcc-35ea-6413cb7593fe
 ---
@@ -48,7 +53,7 @@ READINGS
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Defoe, Daniel
 {{< tdclose >}}
 {{< tdopen >}}
@@ -78,7 +83,7 @@ _Moll Flanders_, last third.
 {{< tdopen >}}
 5
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Burney, Frances
 {{< tdclose >}}
 {{< tdopen >}}
@@ -108,7 +113,7 @@ _Evelina_, volume III.
 {{< tdopen >}}
 8
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Austen, Jane
 {{< tdclose >}}
 {{< tdopen >}}
@@ -138,7 +143,7 @@ _Pride & Prejudice_, volume III.
 {{< tdopen >}}
 11
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Gaskell, Elizabeth
 {{< tdclose >}}
 {{< tdopen >}}
@@ -168,7 +173,7 @@ _Mary Barton_, chapters 24-38.
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Eliot, George
 {{< tdclose >}}
 {{< tdopen >}}
@@ -198,7 +203,7 @@ _Adam Bede_, books 5-6.
 {{< tdopen >}}
 17
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Braddon, Mary Elizabeth
 {{< tdclose >}}
 {{< tdopen >}}
@@ -228,7 +233,7 @@ _Lady Audley's Secret_, volume III.
 {{< tdopen >}}
 20
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Hardy, Thomas
 {{< tdclose >}}
 {{< tdopen >}}
@@ -258,7 +263,7 @@ _Tess of the D'Urbervilles_, phase 7.
 {{< tdopen >}}
 23
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Woolf, Virginia
 {{< tdclose >}}
 {{< tdopen >}}
