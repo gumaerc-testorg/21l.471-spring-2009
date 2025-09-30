@@ -9,25 +9,25 @@ ocw_type: CourseSection
 title: Readings
 uid: 880d9d86-3520-3dcc-35ea-6413cb7593fe
 ---
-This section features the required texts as well as a listing of [readings by session](https://ocw-studio.odl.mit.edu/sites/21l-471-major-english-novels-spring-2009/type/page/edit/880d9d86-3520-3dcc-35ea-6413cb7593fe/#Readings_by_Session).
+This section features the required texts as well as a listing of {{% resource_link "6d17c616-4a71-40af-b8ec-0876e7e441e2" "readings by session" %}}.
 
 ## Required Texts
 
-Defoe, Daniel. *Moll Flanders*. New York, NY: Penguin Classics, 1989. ISBN: 9780140433135. The [e-text](http://www.gutenberg.org/etext/9685) is available from Project Gutenberg.
+Defoe, Daniel. *Moll Flanders*. New York, NY: Penguin Classics, 1989. ISBN: 9780140433135. The {{% resource_link "31f4141a-9eac-45a5-a277-dd8951a8c7bd" "e-text" %}} is available from Project Gutenberg.
 
-Burney, Frances. *Evelina*. New York, NY: Oxford University Press, 2002. ISBN: 9780192840318. The [e-text](http://www.gutenberg.org/etext/6053) is available from Project Gutenberg.
+Burney, Frances. *Evelina*. New York, NY: Oxford University Press, 2002. ISBN: 9780192840318. The {{% resource_link "a887b249-0d13-4093-b9ad-b0d2f24db9d1" "e-text" %}} is available from Project Gutenberg.
 
-Austen, Jane. *Pride and Prejudice*. New York, NY: Penguin, 2004. ISBN: 9780192802385. The [e-text](http://www.gutenberg.org/etext/1342) and [audio book](http://www.gutenberg.org/etext/20686) are available from Project Gutenberg.
+Austen, Jane. *Pride and Prejudice*. New York, NY: Penguin, 2004. ISBN: 9780192802385. The {{% resource_link "1a4945d4-5d4c-4c92-8097-7f4f01ed970c" "e-text" %}} and {{% resource_link "0bc136a5-042b-4fa1-89c3-236a8bd0ac02" "audio book" %}} are available from Project Gutenberg.
 
-Gaskell, Elizabeth. *Mary Barton*. New York, NY: Oxford University Press, 2006. ISBN: 9780192805621. The [e-text](http://www.gutenberg.org/etext/2153) is available from Project Gutenberg.
+Gaskell, Elizabeth. *Mary Barton*. New York, NY: Oxford University Press, 2006. ISBN: 9780192805621. The {{% resource_link "ad936d47-46fc-4106-8eb8-9ea5ec527594" "e-text" %}} is available from Project Gutenberg.
 
-Eliot, George. *Adam Bede*. New York, NY: Penguin Classics, 1980. ISBN: 9780140431216. The [e-text](http://www.gutenberg.org/etext/507) is available from Project Gutenberg.
+Eliot, George. *Adam Bede*. New York, NY: Penguin Classics, 1980. ISBN: 9780140431216. The {{% resource_link "9941ff67-7edf-4758-ab4f-bb4169ae99fe" "e-text" %}} is available from Project Gutenberg.
 
-Braddon, Mary Elizabeth. *Lady Audley's Secret*. New York, NY: Oxford University Press, 1998. ISBN: 9780192835208. The [e-text](http://www.gutenberg.org/etext/8954) is available from Project Gutenberg.
+Braddon, Mary Elizabeth. *Lady Audley's Secret*. New York, NY: Oxford University Press, 1998. ISBN: 9780192835208. The {{% resource_link "d5cc3402-0c07-463c-833f-44fb3aff1c3f" "e-text" %}} is available from Project Gutenberg.
 
-Hardy, Thomas. *Tess of the d'Ubervilles*. New York, NY: Penguin Classics, 2003. ISBN: 9780141439594. The [e-text](http://www.gutenberg.org/etext/110) is available from Project Gutenberg.
+Hardy, Thomas. *Tess of the d'Ubervilles*. New York, NY: Penguin Classics, 2003. ISBN: 9780141439594. The {{% resource_link "5f337c26-6477-4944-860f-36ef38b22830" "e-text" %}} is available from Project Gutenberg.
 
-Woolf, Virginia. *Mrs. Dalloway*. New York, NY: Harcourt Brace Jovanovich, 1990. ISBN: 9780156628709. The [e-text](https://www.gutenberg.org/ebooks/71865) is available from Project Gutenberg.
+Woolf, Virginia. *Mrs. Dalloway*. New York, NY: Harcourt Brace Jovanovich, 1990. ISBN: 9780156628709. The {{% resource_link "7e798362-2759-4b46-8a5d-7fe5cf8ef18c" "e-text" %}} is available from Project Gutenberg.
 
 ## {{< anchor "Readings_by_Session" >}}{{< /anchor >}}Readings by Session
 
